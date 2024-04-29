@@ -1,6 +1,6 @@
 # Alexander Milliken - Jr. Developer
 
-Hello there! 👋 I'm Alexander, a results-driven junior developer with a knack for full-stack web development and a love for solving complex problems. With hands-on experience in React, Node.js, and Python, I thrive in dynamic development teams and am always on the lookout for new knowledge and challenges.
+Hello there! 👋 I'm Alexander, a results-driven junior developer with a focus on full-stack development, cloud technologies, and AI. Skilled in React, Node.js, Python, and leveraging platforms like Azure, I thrive in dynamic teams and love tackling new challenges in tech.
 
 ## 🚀 About Me
 

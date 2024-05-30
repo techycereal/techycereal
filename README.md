@@ -8,16 +8,15 @@ Driven by passion and a year of professional experience, I've crafted responsive
 
 ## 💻 Tech Stack
 
-- **Languages:** JavaScript (ES6+), Python
-- **Frontend:** React, HTML, CSS, React Bootstrap, Vue, Tailwind CSS, Redux
-- **Backend:** Node.js, Express, Flask
+- **Languages:** JavaScript (ES6+), Python, TypeScript
+- **Frontend:** React, HTML, CSS, React Bootstrap, Vue, Tailwind, Redux
+- **Backend:** Node.js, Express, Flask, Next.js
 - **Cloud Services:** Azure, Firebase
 - **Databases:** PostgreSQL, Firestore, MongoDB
+- **Tools and Technologies:** Azure Blob Storage, React DevTools, Git, GitHub Actions, Docker, Kubernetes, Postman
 - **AI and Machine Learning:** HuggingFace, Pandas, Azure Language Studio
 - **Testing:** Jest, Pytest, Vitest
-- **Containerization:** Docker
 - **OS:** Linux
-- **Dev Tools:** React DevTools, Azure Blob Storage
 
 ## 👨‍💻 Work Experience
 
@@ -33,8 +32,8 @@ Certifications are milestones in my learning path, marking my proficiency in cyb
 ## 🛠 Technical Projects
 
 - **Typeahead Feature**: A Vue/React app with a Flask API, showcasing my frontend and backend skills.
-- **Group Management Tool**: Developed a platform with React, Node.js, and SQL for efficient group dynamics.
-- **Portfolio Website**: Engineered a full-stack portfolio website leveraging Next.js' Pages Router with a focus on SEO, resulting in a 20% increase in search engine visibility. Crafted the user interface in Figma using HTML, CSS, and TailwindCSS for a responsive layout. Managed code updates and version control using Git, integrating GitHub Actions for CI/CD pipelines. Successfully deployed the application on Azure to ensure high availability and loading speeds for global users.
+- **The Awesome Store**: Developed an e-commerce platform with a microservice architecture, utilizing React, Node.js, Express, and Azure for scalable and robust online retail.
+- **Portfolio Website**: Built a full-stack portfolio website with Next.js, focusing on SEO and responsive design, and deployed on Azure for global availability.
   
 ## 📫 Get In Touch
 

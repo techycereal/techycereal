@@ -24,7 +24,7 @@ Driven by passion and a year of professional experience, I've crafted responsive
 - **EducatorAI**: Designed SaaS solutions and integrated speech-to-text services.
 - **Consulting**: Developed AI in fast-food automation, working closely with AI experts.
 - **J and J Tree Pros**: Led end-to-end web development.
-- **Marry Me Moments**: Founded and developed a geolocation based wedding social media platform. This is currently in beta testing
+- **Marry Me Moments**: Founded and developed a geolocation-based wedding social media platform. This is currently in beta testing.
 
 ## 🌱 Learning & Development
 
@@ -34,8 +34,8 @@ Certifications are milestones in my learning path, marking my proficiency in cyb
 
 - **Typeahead Feature**: A Vue/React app with a Flask API, showcasing my frontend and backend skills.
 - **Group Management Tool**: Developed a platform with React, Node.js, and SQL for efficient group dynamics.
-- **Fit Connect**: A social media app for fitness enthusiasts, combining Azure services with a Flask backend.
-- 
+- **Portfolio Website**: Engineered a full-stack portfolio website leveraging Next.js' Pages Router with a focus on SEO, resulting in a 20% increase in search engine visibility. Crafted the user interface in Figma using HTML, CSS, and TailwindCSS for a responsive layout. Managed code updates and version control using Git, integrating GitHub Actions for CI/CD pipelines. Successfully deployed the application on Azure to ensure high availability and loading speeds for global users.
+  
 ## 📫 Get In Touch
 
 Whether it's to collaborate on a project, discuss tech, or just say hi, feel free to reach out!

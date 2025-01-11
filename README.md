@@ -14,4 +14,4 @@ Welcome to my GitHub! I’m passionate about building high-performance, responsi
 📌 **Languages/Frameworks**: JavaScript, React, Next.js, TypeScript, Node.js, Express, Python, Django, HTML, CSS, TailwindCSS, Figma  
 📌 **Databases & DevOps**: SQL (PostgreSQL, Microsoft SQL), NoSQL (MongoDB, Firestore), Docker, Kubernetes, CI/CD (GitHub Actions), Cloud Platforms (Azure, GCP)
 
-**DISCLAIMER** There are public repositories of public websites hosted on Github pages and that is for an internal tool testing and it requires public repositories
+**DISCLAIMER** There are public repositories of websites hosted on Github pages and that is for an internal tool testing and it requires public repositories
